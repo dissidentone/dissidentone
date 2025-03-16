@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Mustafa Pıçak | Backend-Focused Full Stack Developer  
 
-<!--
-**dissidentone/dissidentone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **8+ Yıl Mekatronik & Otomasyon → Backend Development'a Geçiş**  
+💡 **API, System Architecture ve Veritabanı Yönetimi ile ilgileniyorum**  
+🔧 **Teknolojiler:** Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Docker, Kubernetes, CI/CD  
+💻 **Açık Kaynak & Özel Projeler | API Güvenliği & Authentication**  
+🚀 **Şu anda: Ölçeklenebilir sistemler ve DevOps üzerine çalışıyorum**  
 
-Here are some ideas to get you started:
+## 📌 Öne Çıkan Projeler  
+- 🚀 **[Bgen2 - Backend Template Generator](https://github.com/dissidentone/bgen2)**  
+- 🔐 **[JWT Auth API - Güvenli Kimlik Doğrulama](https://github.com/dissidentone/jwt-auth-api)**  
+- 🛠 **[ERPNext API & Entegrasyonları](https://github.com/dissidentone/erpnext-api)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Bana Ulaş  
+📧 **Email:** mbicak800@gmail.com  
+🔗 **[LinkedIn](https://www.linkedin.com/in/mustafapicak007/)**  
+🔗 **[GitHub](https://github.com/dissidentone)**  
